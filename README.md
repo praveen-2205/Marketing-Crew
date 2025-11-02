@@ -1,4 +1,4 @@
-# 🧠 Marketing Crew
+# Marketing Crew
 ---
 A Crew AI Project
 > AI-Powered Marketing Automation System Built with CrewAI
